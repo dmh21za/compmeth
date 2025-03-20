@@ -1,0 +1,16 @@
+{
+    "papers": {
+        "guardian": [
+            {
+                "author": "",
+                "headline": "",
+                "body": "this includes any subheadlines",
+                "published": "timestamp",
+                "updated": "timestamp"
+            }
+        ],
+        "dailymail": [
+
+        ]
+    }
+}
